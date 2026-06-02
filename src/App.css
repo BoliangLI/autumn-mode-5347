@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+.hero-logo {
+  max-width: min(100%, 420px);
+  height: auto;
+  padding: 1.5em;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
